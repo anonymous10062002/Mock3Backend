@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "username": "shiva",
+      "email": "shiva@gmail.com",
+      "password": "shiva",
+      "role": "User",
+      "id": 1
+    }
+  ],
+  "doctors": [
+    {
+      "username": "ashish",
+      "email": "ashish@gmail.com",
+      "password": "ashish",
+      "role": "doctor",
+      "id": 1
+    }
+  ],
+  "appointments": [
+    {
+      "name": "Ritesh",
+      "image": "kijokjklj",
+      "specilization": "Dermatologist",
+      "experience": "50",
+      "location": "Vaishali",
+      "date": "2023-05-17",
+      "slots": "800",
+      "fee": "10500",
+      "id": 3
+    }
+  ]
+}
